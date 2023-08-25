@@ -1,2 +1,2 @@
-# axity-cap-typescript
+# cap-typescript
  CAP Typescript Exercises
